@@ -1,4 +1,3 @@
 # README
 
 itoemosiの試作、
-、
